@@ -53,5 +53,5 @@ This tutorial outlines the steps needed to create Virtual Machines within Azure 
 **4.) Dont be alarmed when this pops up just click yes and proceed, from there we will be automatically logged in the VM and we can ignore or uncheck these privacy settings**
 
 ![image](https://github.com/MartindIT/basics-Azure/assets/151476834/f5ee53d2-38ef-4b8e-a8c8-539bdec81eb4)
-**5.)Finally we will be able to use our new VM we just created using azures virtual machine, From here we can do anything and test out projects and have fun playing around a virtual machine without having to worry about harming our actually computer.**
+**5.)Finally we will be able to use our new VM we just created using azures virtual machine, From here we can do anything and test out projects and have fun playing around in a virtual machine without having to worry about harming our actually computer.**
 
