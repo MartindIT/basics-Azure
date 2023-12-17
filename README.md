@@ -1,5 +1,5 @@
 
-![image](https://github.com/MartindIT/basics-Azure/assets/151476834/1238ef62-9283-4a8a-8cd7-a33d2694b92d)
+![image](https://github.com/MartindIT/basics-Azure/assets/151476834/84d1e828-ca68-4bc4-9098-5afa725711b7)
 
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
