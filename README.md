@@ -24,9 +24,22 @@ This tutorial outlines the steps needed to create Virtual Machines within Azure 
 **1.) First Login to your Microsoft Azure account and click on "Resource Groups" then create a resource group and name it**
 
 ![image](https://github.com/MartindIT/basics-Azure/assets/151476834/b95a2c66-0033-463b-9c3d-e58b6fb838ea)
+![image](https://github.com/MartindIT/basics-Azure/assets/151476834/e3c3cb8b-2f29-471b-b727-4c347e89fffa)
+![image](https://github.com/MartindIT/basics-Azure/assets/151476834/5ee3121b-ae84-4214-ba9d-2817259c37c6)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
+**2.) Then go back to the home page of azure and click on Virtual Machines and create**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+**After that we will be on the next screen where you put in the Resource Group we just made and change the operating system to "Windows 10" then name your virtual machine**
+
+**Then proceed with the appropite size I will choose 2 vcpus because I will be creating another VM for the next project**
+
+**And after all that just make a log in for VM and accept and agree with the TOS and click review and create. (*the rest will be fine on default settings*)**
+
+![image](https://github.com/MartindIT/basics-Azure/assets/151476834/ab4728a5-ebfa-4064-bc01-ce3e0e77bfbb)
+![image](https://github.com/MartindIT/basics-Azure/assets/151476834/face5bfd-892d-4024-8a03-b27c492095a2)
+
+**3.) Once this finishes deployment we can go ahead and click on go to resource and the virtual machine will be ready.**
+
+**When we are on this screen we will bring up Remote Desktop and copy and paste the public IP Address for the VM onto remote desktop and hit connect.**
 
