@@ -38,8 +38,20 @@ This tutorial outlines the steps needed to create Virtual Machines within Azure 
 
 ![image](https://github.com/MartindIT/basics-Azure/assets/151476834/ab4728a5-ebfa-4064-bc01-ce3e0e77bfbb)
 ![image](https://github.com/MartindIT/basics-Azure/assets/151476834/face5bfd-892d-4024-8a03-b27c492095a2)
+![image](https://github.com/MartindIT/basics-Azure/assets/151476834/309f6d19-3f35-499a-88be-6e160a40e3b4)
 
 **3.) Once this finishes deployment we can go ahead and click on go to resource and the virtual machine will be ready.**
 
 **When we are on this screen we will bring up Remote Desktop and copy and paste the public IP Address for the VM onto remote desktop and hit connect.**
+
+**Then type in your login information which we made in step 2**
+
+![image](https://github.com/MartindIT/basics-Azure/assets/151476834/c6e47434-1d86-4f7f-8ebb-987f8f50f1ae)
+![image](https://github.com/MartindIT/basics-Azure/assets/151476834/4b4eb103-99c5-429b-bd3e-f2d679689f3f)
+![image](https://github.com/MartindIT/basics-Azure/assets/151476834/251c68f1-79f9-4c08-8936-49e3aacd1d69)
+
+**4.) Dont be alarmed when this pops up just click yes and proceed, from there we will be automatically logged in the VM and we can ignore or uncheck these privacy settings**
+
+![image](https://github.com/MartindIT/basics-Azure/assets/151476834/f5ee53d2-38ef-4b8e-a8c8-539bdec81eb4)
+**5.)Finally we will be able to use our new VM we just created using azures virtual machine, From here we can do anything and test out projects and have fun playing around a virtual machine without having to worry about harming our actually computer.**
 
